@@ -61,11 +61,4 @@
 
 ---
 
-## 🎉 Fun Section
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</p>
-
----
-
 <p align="center">⭐️ From <a href="https://github.com/Vansh27189">VANSH</a></p>
