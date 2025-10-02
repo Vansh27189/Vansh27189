@@ -31,8 +31,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> 
-  <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="AI Basics" width="40"/> 
-  <img src="https://seeklogo.com/vector-logo/611655/langchain-icon" alt="LangChain" width="40"/> 
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" alt="AI Basics" width="40"/> 
+
 </p>
 
 ---
