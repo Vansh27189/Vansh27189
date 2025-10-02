@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://avatars.githubusercontent.com/u/00000000?v=4"> <!-- Replace with your avatar URL if you want -->
+  <img width="200" src="https://avatars.githubusercontent.com/u/00000000?v=4"> 
 </p>
 
 <h1 align="center"> Hello Fellow &lt; Developers /&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> 
   <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="AI Basics" width="40"/> 
-  <img src="https://img.icons8.com/ios/50/000000/brainstorm-skill.png" alt="LangChain" width="40"/> 
+  <img src="https://seeklogo.com/vector-logo/611655/langchain-icon" alt="LangChain" width="40"/> 
 </p>
 
 ---
